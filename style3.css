@@ -69,13 +69,15 @@ background-color: gray;
 color: white;
 }
 .text-box{
-    height: 200px;
-    width: 500px;
-    margin-left: 330px;
-    margin-top: 20px;
-    text-align: center;
-    border: 3px solid black;
-    border-radius: 7px;
+    	height: 260px;
+    	width: 500px;
+    	margin-left: 330px;
+    	margin-top: 20px;
+    	text-align: center;
+    	border: 3px solid black;
+    	border-radius: 7px;
+	background-image: url(assets/background.jpg);
+  	box-shadow: 3px 3px 3px #737373;
 }
 .text-box p{
     font-family: Arial;
@@ -87,13 +89,15 @@ color: white;
     margin-right: 38%;
 }
 .text-boxx{
-    height: 220px;
-    width: 500px;
-    margin-left: 330px;
-    margin-top: 20px;
-    text-align: center;
-    border: 3px solid black;
-    border-radius: 7px;
+   	height: 260px;
+   	width: 500px;
+   	margin-left: 330px;
+   	margin-top: 20px;
+   	text-align: center;
+    	border: 3px solid black;
+    	border-radius: 7px;
+	background-image: url(assets/background.jpg);
+  	box-shadow: 3px 3px 3px #737373;	
 }
 .text-boxx p{
     font-family: Arial;
